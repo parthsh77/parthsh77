@@ -93,13 +93,19 @@ Here are some ideas to get you started:
 </p>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=parthsh77&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=parthsh77&theme=radical&_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=parthsh77&theme=radical&hide_border=false)
-<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=parthsh77&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact) 
+![](https://github-readme-stats.vercel.app/api?username=parthsh77&theme=radical&_border=false&include_all_commits=true&count_private=true) <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/Software_Tools.gif" alt="About Me GIF" width="180px"><br/>
+<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px"> ![](https://github-readme-streak-stats.herokuapp.com/?user=parthsh77&theme=radical&hide_border=false)
+ <img src="https://github.com/parthsh77/icons/blob/main/Kiopdev%20Discord%20GIF%20-%20Kiopdev%20Discord%20Hack%20-%20Discover%20%26%20Share%20GIFs.gif" alt="About Me GIF" width="300px">
 <br/>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=parthsh77&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/parthshrivastava77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parthshrivastava77" height="30" width="40" /></a>
+<a href="https://instagram.com/boldboy_x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="boldboy_x" height="30" width="40" /></a>
+
 <!--START_SECTION:waka-->
 
 ```text
