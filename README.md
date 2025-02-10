@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👾, I'm Parth Shrivastava</h1>
 <h3 align="center">Passionate Cybersecurity Enthusiast | Aspiring Ethical Hacker | Defender of Digital Frontiers</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=partsh77&label=Profile%20views&color=0e75b6&style=flat" alt="partsh77" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=parthsh77&label=Profile%20views&color=0e75b6&style=flat" alt="partsh77" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=partsh77" alt="partsh77" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parthsh77" alt="partsh77" /></a> </p>
 
 - ⌨️ I’m currently working on **CompTIA Sec+**
 
