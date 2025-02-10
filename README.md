@@ -99,11 +99,16 @@ Here are some ideas to get you started:
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=parthsh77&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact) 
-![](https://github-readme-stats.vercel.app/api?username=parthsh77&theme=radical&_border=false&include_all_commits=true&count_private=true) <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/Software_Tools.gif" alt="About Me GIF" width="150px">
+![](https://github-readme-stats.vercel.app/api?username=parthsh77&theme=radical&_border=false&include_all_commits=true&count_private=true)
+<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px"> ![](https://github-readme-streak-stats.herokuapp.com/?user=parthsh77&theme=radical&hide_border=false) <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/Software_Tools.gif" alt="About Me GIF" width="150px">
 
-<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px"> ![](https://github-readme-streak-stats.herokuapp.com/?user=parthsh77&theme=radical&hide_border=false)
- <img src="https://github.com/parthsh77/icons/blob/main/hello.gif" alt="About Me GIF" width="300px"><br/>
+ <p align="center">
+    <img src="https://github.com/parthsh77/icons/blob/main/hello.gif" 
+         alt="About Me GIF" width="500px">
+</p>
+ <br/>
 <br/>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=parthsh77&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
