@@ -22,7 +22,11 @@ Here are some ideas to get you started:
 - ⌨️ I’m currently working on **CompTIA Sec+**
 
 - Want to know a Fun fact?🤖 **If you want me to work efficiently…then make me Happy with a cup of coffee☕️**
-  
+<p align="center">
+    <img src="https://github.com/parthsh77/icons/blob/main/Kiopdev%20Discord%20GIF%20-%20Kiopdev%20Discord%20Hack%20-%20Discover%20%26%20Share%20GIFs.gif" 
+         alt="About Me GIF" width="500px">
+</p>
+
     
 # 🖥️ Technical Skills: 
 <p align="left">
@@ -93,10 +97,12 @@ Here are some ideas to get you started:
 </p>
 
 # 📊 GitHub Stats:
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=parthsh77&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact) 
-![](https://github-readme-stats.vercel.app/api?username=parthsh77&theme=radical&_border=false&include_all_commits=true&count_private=true) <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/Software_Tools.gif" alt="About Me GIF" width="180px"><br/>
+![](https://github-readme-stats.vercel.app/api?username=parthsh77&theme=radical&_border=false&include_all_commits=true&count_private=true) 
+
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px"> ![](https://github-readme-streak-stats.herokuapp.com/?user=parthsh77&theme=radical&hide_border=false)
- <img src="https://github.com/parthsh77/icons/blob/main/Kiopdev%20Discord%20GIF%20-%20Kiopdev%20Discord%20Hack%20-%20Discover%20%26%20Share%20GIFs.gif" alt="About Me GIF" width="300px">
+ <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/Software_Tools.gif" alt="About Me GIF" width="180px"><br/>
 <br/>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=parthsh77&theme=radical&no-frame=false&no-bg=true&margin-w=4)
