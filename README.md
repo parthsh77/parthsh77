@@ -14,14 +14,14 @@ Here are some ideas to get you started:
 -->
 <p align="center">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
-    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=The+Quieter+You+Become;The+More+You+Are+Able+To+Hear+....&center=true"></a></p>
+    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=The+Quieter+You+Become+....;The+More+You+Are+Able+To+Hear+....&center=true"></a></p>
     
 <h1 align="center">Hi 👾, I'm Parth Shrivastava</h1>
 <h3 align="center">Passionate Cybersecurity Enthusiast | Aspiring Ethical Hacker | Defender of Digital Frontiers</h3>
 
 - ⌨️ I’m currently working on **CompTIA Sec+**
 
-- Want to know a Fun fact?🤖 **If you want me to work efficiently…then make me Happy with a cup of coffee☕️**
+- ⚡Want to know a Fun fact?🤖 **If you want me to work efficiently…then make me Happy😄 with a cup of coffee☕️**
 <p align="center">
     <img src="https://github.com/parthsh77/icons/blob/main/Kiopdev%20Discord%20GIF%20-%20Kiopdev%20Discord%20Hack%20-%20Discover%20%26%20Share%20GIFs.gif" 
          alt="About Me GIF" width="500px">
