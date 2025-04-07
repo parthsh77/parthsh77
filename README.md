@@ -104,7 +104,7 @@ Here are some ideas to get you started:
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px"> 
 
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=parthsh77&theme=radical&hide_border=false) <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/Software_Tools.gif" alt="About Me GIF" width="150px">
+![](https://github-readme-streak-stats.herokuapp.com/?user=parthsh77&theme=radical&hide_border=false) <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/Software_Tools.gif" alt="About Me GIF" width="100px">
 
  <p align="center">
     <img src="https://github.com/parthsh77/icons/blob/main/hello.gif" 
