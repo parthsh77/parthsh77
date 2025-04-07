@@ -104,9 +104,6 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api?username=parthsh77&theme=radical&_border=false&include_all_commits=true&count_private=true)
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="250px"> ![](https://github-readme-streak-stats.herokuapp.com/?user=parthsh77&theme=radical&hide_border=false)
 
-
- 
-
  <p align="center">
     <img src="https://github.com/parthsh77/icons/blob/main/hello.gif" 
          alt="About Me GIF" width="500px">
@@ -116,7 +113,6 @@ Here are some ideas to get you started:
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=parthsh77&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/parthshrivastava77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parthshrivastava77" height="30" width="40" /></a>
