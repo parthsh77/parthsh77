@@ -103,7 +103,7 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/Software_Tools.gif" alt="About Me GIF" width="200px">
 ![](https://github-readme-stats.vercel.app/api?username=parthsh77&theme=radical&_border=false&include_all_commits=true&count_private=true)
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="250px"> ![](https://github-readme-streak-stats.herokuapp.com/?user=parthsh77&theme=radical&hide_border=false)
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="200">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="250">
 <br><br>
 
  <p align="center">
