@@ -28,53 +28,50 @@ Here are some ideas to get you started:
 </p>
 
     
-# 🖥️ Technical Skills:
+# 🖥️ Technical Skills
+
+&nbsp;
+
+### 🚀 Languages:
+
+| C | Python | C++ | Bash |
+|:--:|:--:|:--:|:--:|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="60"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="60"/> | <img src="https://github.com/parthsh77/icons/blob/main/bash.png" width="60"/> |
 ---
+### 🛡️ Cybersecurity & Ethical Hacking Tools:
 
-## 🚀 Languages
-
-| C | Linux | Python | C++ | Bash |
-|:--:|:--:|:--:|:--:|:--:|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="60"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="60"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="60"/> | <img src="https://github.com/parthsh77/icons/blob/main/bash.png" width="60"/> |
-
-## 🛡️ Cybersecurity & Ethical Hacking Tools
-
-### 🔍 Information Gathering
+#### 🔍 Information Gathering
 
 | Nmap | Netcat | Wireshark | theHarvester | Recon-ng |
 |:--:|:--:|:--:|:--:|:--:|
 | <img src="https://github.com/parthsh77/icons/blob/main/nmap.jpg" width="60"/> | <img src="https://github.com/parthsh77/icons/blob/main/netcat.png" width="60"/> | <img src="https://github.com/parthsh77/icons/blob/main/png-clipart-macos-app-icons-wireshark.png" width="60"/> | <img src="https://github.com/parthsh77/icons/blob/main/theharvester.svg" width="60"/> | <img src="https://github.com/parthsh77/icons/blob/main/reconng.png" width="60"/> |
 
----
 
-### 🔓 Vulnerability Analysis & Exploitation
+#### 🔓 Vulnerability Analysis & Exploitation
 
 | Burp Suite | SQLMap | Metasploit | Nikto | SearchSploit |
 |:--:|:--:|:--:|:--:|:--:|
 | <img src="https://github.com/parthsh77/icons/blob/main/icons8-burp-suite.svg" width="60"/> | <img src="https://github.com/parthsh77/icons/blob/main/sqlmap.png" width="60"/> | <img src="https://github.com/parthsh77/icons/blob/main/img.icons8.png" width="60"/> | <img src="https://github.com/parthsh77/icons/blob/main/nikto.jpg" width="60"/> | <img src="https://github.com/parthsh77/icons/blob/main/searchsploit.png" width="60"/> |
 
----
 
-### 🧠 Password Attacks
+#### 🧠 Password Attacks
 
 | Hydra | John the Ripper | Hashcat | Medusa |
 |:--:|:--:|:--:|:--:|
 | <img src="https://github.com/parthsh77/icons/blob/main/hydra.png" width="60"/> | <img src="https://github.com/parthsh77/icons/blob/main/com.openwall.John.png" width="60"/> | <img src="https://github.com/parthsh77/icons/blob/main/HASH.jpg" width="60"/> | <img src="https://github.com/parthsh77/icons/blob/main/medusa.jpg" width="60"/> |
 
----
 
-### 📡 Network Attacks & MITM
+#### 📡 Network Attacks & MITM
 
 | Bettercap | Ettercap | dsniff |
 |:--:|:--:|:--:|
 | <img src="https://github.com/parthsh77/icons/blob/main/bettercap.png" width="60"/> | <img src="https://github.com/parthsh77/icons/blob/main/ettercap.svg" width="60"/> | <img src="https://github.com/parthsh77/icons/blob/main/dsniff.svg" width="60"/> |
-
-## 💻 Operating Systems
+---
+## 💻 Operating Systems:
 
 | Kali Linux | Windows | RHEL | Arch Linux | Ubuntu | Fedora |
 |:--:|:--:|:--:|:--:|:--:|:--:|
-| <img src="https://github.com/parthsh77/icons/blob/main/icons8-kali-linux(1).svg" width="60"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="60"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redhat/redhat-original.svg" width="60"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" width="60"/> | <img src="https://
-
+| <img src="https://github.com/parthsh77/icons/blob/main/icons8-kali-linux(1).svg" width="60"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="60"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redhat/redhat-original.svg" width="60"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" width="60"/> | <img src="https://github.com/parthsh77/icons/blob/main/ubuntu.png" width="60"/> | <img src="https://github.com/parthsh77/icons/blob/main/fredora.png" width="60"/>
 
 
 
