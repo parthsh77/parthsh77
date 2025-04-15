@@ -29,80 +29,38 @@ Here are some ideas to get you started:
 
     
 # 🖥️ Technical Skills: 
-<h3><font color="BLUE">LANGUAGES:</h3>
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="70" height="70"/> 
-  </a>
+---
+## 🚀 Languages
 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="70" height="70"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="70" height="70"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="70" height="70"/>
-  </a>
-  <a href="https://www.cprogramming.com/](https://www.codecademy.com/resources/blog/what-is-bash-used-for/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/parthsh77/icons/blob/main/bash.png" alt="c" width="70" height="70"/> 
-  </a>
-  </p>
-  <h3>TOOLS & FRAMEWORKS:</h3>
-  <p align="left">
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" >
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="70" height="70"/>
-  </a>
-&nbsp;&nbsp;&nbsp;
-  <a href="https://www.github.com" target="_blank" rel="noreferrer" style="margin-right: 500px;">
-    <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="70" height="70"/>
-  </a>
-  <a href="https://www.canva.com/" target="_blank" rel="noreferrer" style="margin-right: 10px;">
-    <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="canva" width="70" height="70"/>
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="vscode" width="70" height="70"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/parthsh77/icons/blob/main/icons8-burp-suite.svg" alt="linux" width="70" height="70"/>
-  </a>
-  <a href="https://www.bettercap.org/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/parthsh77/icons/blob/main/bettercap.png" alt="docker" width="70" height="70"/>
-  </a>
-  <a href="https://hashcat.net/hashcat/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/parthsh77/icons/blob/main/HASH.jpg" alt="opencv" width="70" height="70"/>
-  </a>
-  <a href="https://www.kali.org/tools/hydra/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/parthsh77/icons/blob/main/hydra.png" alt="redux" width="70" height="70"/>
-  </a>
-  <a href="https://www.kali.org/tools/netcat/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/parthsh77/icons/blob/main/netcat.png" alt="postman" width="70" height="70"/>
-  </a>
-  <a href="https://nmap.org/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/parthsh77/icons/blob/main/nmap.jpg" alt="figma" width="70" height="70"/>
-  </a>
-  <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/parthsh77/icons/blob/main/png-clipart-macos-app-icons-wireshark.png" alt="firebase" width="70" height="70"/>
-  </a>
-  <a href="https://sqlmap.org/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/parthsh77/icons/blob/main/sqlmap.png" alt="gcp" width="70" height="70"/>
-  </a>
-  <a href="https://www.openwall.com/john/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/parthsh77/icons/blob/main/com.openwall.John.png" alt="graphql" width="70" height="70"/>
-  </a>
-    <a href="https://www.metasploit.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/parthsh77/icons/blob/main/img.icons8.png" alt="express" width="70" height="70"/>
-  </a>
-</p>
-<h3>Operating Systems: :</h3>
-  <p align="left">
-      <a href="https://www.kali.org" target="_blank" rel="noreferrer">
-    <img src="https://github.com/parthsh77/icons/blob/main/icons8-kali-linux(1).svg" alt="tensorflow" width="70" height="70"/>
-  </a>
-      <a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="70" height="70"/>
-  </a>
-  </p>
+| C | Linux | Python | C++ | Bash |
+|:--:|:--:|:--:|:--:|:--:|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="60"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="60"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="60"/> | <img src="https://github.com/parthsh77/icons/blob/main/bash.png" width="60"/> |
+
+
+## 🛠️ Tools & Frameworks
+
+| MySQL | GitHub | Canva | VSCode | Burp Suite |
+|:--:|:--:|:--:|:--:|:--:|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="60"/> | <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="60"/> | <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" width="60"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="60"/> | <img src="https://github.com/parthsh77/icons/blob/main/icons8-burp-suite.svg" width="60"/> |
+
+| Bettercap | Hashcat | Hydra | Netcat | Nmap |
+|:--:|:--:|:--:|:--:|:--:|
+| <img src="https://github.com/parthsh77/icons/blob/main/bettercap.png" width="60"/> | <img src="https://github.com/parthsh77/icons/blob/main/HASH.jpg" width="60"/> | <img src="https://github.com/parthsh77/icons/blob/main/hydra.png" width="60"/> | <img src="https://github.com/parthsh77/icons/blob/main/netcat.png" width="60"/> | <img src="https://github.com/parthsh77/icons/blob/main/nmap.jpg" width="60"/> |
+
+| Wireshark | SQLMap | John the Ripper | Metasploit |
+|:--:|:--:|:--:|:--:|
+| <img src="https://github.com/parthsh77/icons/blob/main/png-clipart-macos-app-icons-wireshark.png" width="60"/> | <img src="https://github.com/parthsh77/icons/blob/main/sqlmap.png" width="60"/> | <img src="https://github.com/parthsh77/icons/blob/main/com.openwall.John.png" width="60"/> | <img src="https://github.com/parthsh77/icons/blob/main/img.icons8.png" width="60"/> |
+
+
+## 💻 Operating Systems
+
+| Kali Linux | Windows | RHEL |
+|:--:|:--:|:--:|
+| <img src="https://github.com/parthsh77/icons/blob/main/icons8-kali-linux(1).svg" width="60"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="60"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redhat/redhat-original.svg" width="60"/> |
+
+
+
+
 
 # 📊 GitHub Stats:
 
