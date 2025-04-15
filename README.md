@@ -28,8 +28,9 @@ Here are some ideas to get you started:
 </p>
 
     
-# 🖥️ Technical Skills: 
+# 🖥️ Technical Skills:
 ---
+
 ## 🚀 Languages
 
 | C | Linux | Python | C++ | Bash |
@@ -42,7 +43,7 @@ Here are some ideas to get you started:
 
 | Nmap | Netcat | Wireshark | theHarvester | Recon-ng |
 |:--:|:--:|:--:|:--:|:--:|
-| <img src="https://github.com/parthsh77/icons/blob/main/nmap.jpg" width="60"/> | <img src="https://github.com/parthsh77/icons/blob/main/netcat.png" width="60"/> | <img src="https://github.com/parthsh77/icons/blob/main/png-clipart-macos-app-icons-wireshark.png" width="60"/> | <img src="https://via.placeholder.com/60?text=theHarvester" width="60"/> | <img src="https://via.placeholder.com/60?text=Recon-ng" width="60"/> |
+| <img src="https://github.com/parthsh77/icons/blob/main/nmap.jpg" width="60"/> | <img src="https://github.com/parthsh77/icons/blob/main/netcat.png" width="60"/> | <img src="https://github.com/parthsh77/icons/blob/main/png-clipart-macos-app-icons-wireshark.png" width="60"/> | <img src="https://github.com/parthsh77/icons/blob/main/theharvester.svg" width="60"/> | <img src="https://github.com/parthsh77/icons/blob/main/reconng.png" width="60"/> |
 
 ---
 
@@ -50,7 +51,7 @@ Here are some ideas to get you started:
 
 | Burp Suite | SQLMap | Metasploit | Nikto | SearchSploit |
 |:--:|:--:|:--:|:--:|:--:|
-| <img src="https://github.com/parthsh77/icons/blob/main/icons8-burp-suite.svg" width="60"/> | <img src="https://github.com/parthsh77/icons/blob/main/sqlmap.png" width="60"/> | <img src="https://github.com/parthsh77/icons/blob/main/img.icons8.png" width="60"/> | <img src="https://via.placeholder.com/60?text=Nikto" width="60"/> | <img src="https://via.placeholder.com/60?text=SearchSploit" width="60"/> |
+| <img src="https://github.com/parthsh77/icons/blob/main/icons8-burp-suite.svg" width="60"/> | <img src="https://github.com/parthsh77/icons/blob/main/sqlmap.png" width="60"/> | <img src="https://github.com/parthsh77/icons/blob/main/img.icons8.png" width="60"/> | <img src="https://github.com/parthsh77/icons/blob/main/nikto.jpg" width="60"/> | <img src="https://github.com/parthsh77/icons/blob/main/searchsploit.png" width="60"/> |
 
 ---
 
@@ -58,25 +59,21 @@ Here are some ideas to get you started:
 
 | Hydra | John the Ripper | Hashcat | Medusa |
 |:--:|:--:|:--:|:--:|
-| <img src="https://github.com/parthsh77/icons/blob/main/hydra.png" width="60"/> | <img src="https://github.com/parthsh77/icons/blob/main/com.openwall.John.png" width="60"/> | <img src="https://github.com/parthsh77/icons/blob/main/HASH.jpg" width="60"/> | <img src="https://via.placeholder.com/60?text=Medusa" width="60"/> |
+| <img src="https://github.com/parthsh77/icons/blob/main/hydra.png" width="60"/> | <img src="https://github.com/parthsh77/icons/blob/main/com.openwall.John.png" width="60"/> | <img src="https://github.com/parthsh77/icons/blob/main/HASH.jpg" width="60"/> | <img src="https://github.com/parthsh77/icons/blob/main/medusa.jpg" width="60"/> |
 
 ---
 
 ### 📡 Network Attacks & MITM
 
-| Bettercap | Ettercap | ARPspoof |
+| Bettercap | Ettercap | dsniff |
 |:--:|:--:|:--:|
-| <img src="https://github.com/parthsh77/icons/blob/main/bettercap.png" width="60"/> | <img src="https://via.placeholder.com/60?text=Ettercap" width="60"/> | <img src="https://via.placeholder.com/60?text=ARPspoof" width="60"/> |
-
-
-
+| <img src="https://github.com/parthsh77/icons/blob/main/bettercap.png" width="60"/> | <img src="https://github.com/parthsh77/icons/blob/main/ettercap.svg" width="60"/> | <img src="https://github.com/parthsh77/icons/blob/main/dsniff.svg" width="60"/> |
 
 ## 💻 Operating Systems
 
 | Kali Linux | Windows | RHEL | Arch Linux | Ubuntu | Fedora |
 |:--:|:--:|:--:|:--:|:--:|:--:|
-| <img src="https://github.com/parthsh77/icons/blob/main/icons8-kali-linux(1).svg" width="60"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="60"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redhat/redhat-original.svg" width="60"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" width="60"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" width="60"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fedora/fedora-original.svg" width="60"/> |
-
+| <img src="https://github.com/parthsh77/icons/blob/main/icons8-kali-linux(1).svg" width="60"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="60"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redhat/redhat-original.svg" width="60"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" width="60"/> | <img src="https://
 
 
 
