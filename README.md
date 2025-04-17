@@ -16,21 +16,21 @@ Here are some ideas to get you started:
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
     <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=The+Quieter+You+Become+....;The+More+You+Are+Able+To+Hear+....&center=true"></a></p>
     
-<h1 align="center">Hi 👾, I'm Parth Shrivastava</h1>
-<h3 align="center">Passionate Cybersecurity Enthusiast | Aspiring Ethical Hacker | Defender of Digital Frontiers</h3>
+<h1 align="center">Hi, I'm Parth Shrivastava</h1>
 
-- ⌨️ I’m currently working on **CompTIA Sec+**
-
-- ⚡Want to know a Fun fact?🤖 **If you want me to work efficiently…then make me Happy😄 with a cup of coffee☕️**
 <p align="center">
     <img src="https://github.com/parthsh77/icons/blob/main/Kiopdev%20Discord%20GIF%20-%20Kiopdev%20Discord%20Hack%20-%20Discover%20%26%20Share%20GIFs.gif" 
          alt="About Me GIF" width="500px">
 </p>
 
+<h3 align="center">A dedicated and detail-oriented Cybersecurity Enthusiast with a strong interest in ethical hacking, network security, and digital forensics. I am currently enhancing my skills through the CompTIA Security+ and CEH certification and building open-source tools focused on system integrity, network anomaly detection, and threat prevention.
+With a solid foundation in both offensive and defensive security practices, I am committed to contributing to safer and more resilient digital environments.</h3>
+
+- ⌨️ I’m currently working on **CompTIA Sec+ and CEH**
+---
+&nbsp;
     
 # 🖥️ Technical Skills
-
-&nbsp;
 
 ### 🚀 Languages:
 
@@ -66,13 +66,66 @@ Here are some ideas to get you started:
 | Bettercap | Ettercap | dsniff |
 |:--:|:--:|:--:|
 | <img src="https://github.com/parthsh77/icons/blob/main/bettercap.png" width="60"/> | <img src="https://github.com/parthsh77/icons/blob/main/ettercap.svg" width="60"/> | <img src="https://github.com/parthsh77/icons/blob/main/dsniff.svg" width="60"/> |
----
 ## 💻 Operating Systems:
 
 | Kali Linux | Windows | RHEL | Arch Linux | Ubuntu | Fedora |
 |:--:|:--:|:--:|:--:|:--:|:--:|
 | <img src="https://github.com/parthsh77/icons/blob/main/icons8-kali-linux(1).svg" width="60"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="60"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redhat/redhat-original.svg" width="60"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" width="60"/> | <img src="https://github.com/parthsh77/icons/blob/main/ubuntu.png" width="60"/> | <img src="https://github.com/parthsh77/icons/blob/main/fredora.png" width="60"/>
+---
+&nbsp;
+# 🧩 Projects
 
+### 🔐 Integrity Checker | Python3, Kali Linux, Windows, Hashing (SHA-256, SHA-512, MD5)  
+**📅 JAN 2025**  
+- Developed an open-source tool to verify the integrity of files.  
+- Capable of computing cryptographic hashes such as SHA-256, SHA-512, and MD5.  
+- Designed to detect unauthorized modifications by comparing computed hashes with original ones.  
+- 🔗 [GitHub Repository](https://github.com/parthsh77/File-Integrity-Checker)  
+
+<p align="center">
+  <img src="your-image-link-here" alt="Integrity Checker Screenshot" width="600"/>
+</p>
+
+---
+
+### 🌐 DOS - Detection | Python3, Scapy, Pandas, Windows, Kali Linux  
+**📅 SEP 2024**  
+- Developed an open-source Linux tool to identify and analyze malicious Denial-of-Service (DoS) attacks in real time.  
+- Built as an enhancement to Wireshark to monitor network traffic patterns.  
+- Expert at detecting anomalies such as sudden request spikes, abnormal traffic sources, and protocol misuse.  
+- 🔗 [GitHub Repository](https://github.com/parthsh77/DOS-DETECTION)  
+
+<p align="center">
+  <img src="your-image-link-here" alt="DOS Detection Screenshot" width="600"/>
+</p>
+
+---
+
+### 🎹 Key Logging - Detection | Python3, psutil, pynput, pywin32, Bash, Kali Linux, Windows  
+**📅 JAN 2024**  
+- Developed an open-source Linux tool to detect and prevent unauthorized keylogging activities.  
+- Monitors keyboard input behavior, suspicious background processes, and unauthorized keystroke data access.  
+- Designed to analyze process hooks, API calls, and hidden logging attempts to detect both hardware and software-based keyloggers.  
+- 🔗 [GitHub Repository](https://github.com/parthsh77/KEY-LOGGING-DETECTION)  
+
+<p align="center">
+  <img src="your-image-link-here" alt="Keylogger Detection Screenshot" width="600"/>
+</p>
+
+---
+
+&nbsp;
+
+# 🎓 Certifications & Courses
+
+| Certificate | Date | Provider | Preview |
+|-------------|------|----------|---------|
+| **Cloud Computing** | NOV 2024 | NPTEL | <img src="your-image-link-here" alt="Cloud Computing Certificate" width="200"/> |
+| **Linux System Administration** | JUL 2024 | LPU | <img src="your-image-link-here" alt="Linux Admin Certificate" width="200"/> |
+| **Red Hat Certified Administrator (RHCA)** | MAY 2024 | Red Hat | <img src="your-image-link-here" alt="RHCA Certificate" width="200"/> |
+| **Fundamentals of Network Communication** | DEC 2023 | Coursera (University of Colorado) | <img src="your-image-link-here" alt="Network Communication Certificate" width="200"/> |
+| **Introduction to Cybersecurity Tools & Cyber Attacks** | JUL 2023 | Coursera | <img src="your-image-link-here" alt="Cybersecurity Tools Certificate" width="200"/> |
+| **Linux Commands & Shell Scripting Essentials** | JAN 2023 | Coursera | <img src="your-image-link-here" alt="Linux Shell Scripting Certificate" width="200"/> |
 
 
 
