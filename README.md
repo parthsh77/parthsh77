@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 <h1 align="center">Hi, I'm Parth Shrivastava</h1>
 
 <p align="center">
-    <img src="https://github.com/parthsh77/icons/blob/main/Kiopdev%20Discord%20GIF%20-%20Kiopdev%20Discord%20Hack%20-%20Discover%20%26%20Share%20GIFs.gif" 
-         alt="About Me GIF" width="500px">
+    <img src="https://github.com/parthsh77/icons/blob/main/photo_2024-10-10_23-03-16.jpg" 
+         alt="About Me GIF" width="250px">
 </p>
 
 <h3 align="center">A dedicated and detail-oriented Cybersecurity Enthusiast with a strong interest in ethical hacking, network security, and digital forensics. I am currently enhancing my skills through the CompTIA Security+ and CEH certification and building open-source tools focused on system integrity, network anomaly detection, and threat prevention.
@@ -120,12 +120,14 @@ With a solid foundation in both offensive and defensive security practices, I am
 
 | Certificate | Date | Provider | Preview |
 |-------------|------|----------|---------|
-| **Cloud Computing** | NOV 2024 | NPTEL | <img src="your-image-link-here" alt="Cloud Computing Certificate" width="200"/> |
-| **Linux System Administration** | JUL 2024 | LPU | <img src="your-image-link-here" alt="Linux Admin Certificate" width="200"/> |
+| **Cloud Computing** | NOV 2024 | NPTEL | <img src="https://github.com/parthsh77/icons/blob/main/Screenshot%202025-04-18%20043816.png" alt="Cloud Computing Certificate" width="200"/> |
+| **Crybary CompTIA Linux+ XKO-005** | JUL 2024 | LPU | <img src="https://github.com/parthsh77/icons/blob/main/Screenshot%202025-04-18%20043556.png" alt="Crybary CompTIA Linux+ XKO-005" width="200"/> |
 | **Red Hat Certified Administrator (RHCA)** | MAY 2024 | Red Hat | <img src="your-image-link-here" alt="RHCA Certificate" width="200"/> |
-| **Fundamentals of Network Communication** | DEC 2023 | Coursera (University of Colorado) | <img src="your-image-link-here" alt="Network Communication Certificate" width="200"/> |
-| **Introduction to Cybersecurity Tools & Cyber Attacks** | JUL 2023 | Coursera | <img src="your-image-link-here" alt="Cybersecurity Tools Certificate" width="200"/> |
-| **Linux Commands & Shell Scripting Essentials** | JAN 2023 | Coursera | <img src="your-image-link-here" alt="Linux Shell Scripting Certificate" width="200"/> |
+| **Fundamentals of Network Communication** | DEC 2023 | Coursera (University of Colorado) | <img src="https://github.com/parthsh77/icons/blob/main/Screenshot%202025-04-18%20043720.png" alt="Network Communication Certificate" width="200"/> |
+| **Introduction to Cybersecurity Tools & Cyber Attacks** | JUL 2023 | Coursera | <img src="https://github.com/parthsh77/icons/blob/main/1735970442508.jpg" width="200"/> |
+| **Hands-on Introduction to Linux Commands and Shell Scripting** | JAN 2023 | Coursera | <img src="https://github.com/parthsh77/icons/blob/main/Screenshot%202025-04-18%20043653.png" alt="Hands-on Introduction to Linux Commands and Shell Scripting" width="200"/> |
+| **Introduction To Cyber Security Essentials** | JAN 2023 | Coursera | <img src="https://github.com/parthsh77/icons/blob/main/Screenshot%202025-04-18%20043842.png" alt="Introduction To Cyber Security Essentials" width="200"/> |
+| **Linux System Administration** | JUL 2024 | LPU | <img src="https://github.com/parthsh77/icons/blob/main/Screenshot%202025-04-18%20043556.png" alt="Linux Admin Certificate" width="200"/> |
 
 
 
