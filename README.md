@@ -83,7 +83,7 @@ With a solid foundation in both offensive and defensive security practices, I am
 - 🔗 [GitHub Repository](https://github.com/parthsh77/File-Integrity-Checker)  
 
 <p align="center">
-  <img src="your-image-link-here" alt="Integrity Checker Screenshot" width="600"/>
+  <img src="https://media.newyorker.com/photos/5bb7f58172b4842cd2182af9/master/pass/181015_r32937web_rd.gif" alt="Integrity Checker Screenshot" width="600"/>
 </p>
 
 ---
@@ -96,7 +96,7 @@ With a solid foundation in both offensive and defensive security practices, I am
 - 🔗 [GitHub Repository](https://github.com/parthsh77/DOS-DETECTION)  
 
 <p align="center">
-  <img src="your-image-link-here" alt="DOS Detection Screenshot" width="600"/>
+  <img src="https://www.vpnranks.com/wp-content/uploads/2024/05/ddos-attack.gif" alt="DOS Detection Screenshot" width="600"/>
 </p>
 
 ---
@@ -109,7 +109,7 @@ With a solid foundation in both offensive and defensive security practices, I am
 - 🔗 [GitHub Repository](https://github.com/parthsh77/KEY-LOGGING-DETECTION)  
 
 <p align="center">
-  <img src="your-image-link-here" alt="Keylogger Detection Screenshot" width="600"/>
+  <img src="https://media1.tenor.com/m/_8ySz9SQ9b8AAAAC/data-entry-congrats.gif" alt="Keylogger Detection Screenshot" width="600"/>
 </p>
 
 ---
