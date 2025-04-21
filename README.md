@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <p align="center">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
-    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=The+Quieter+You+Become+....;The+More+You+Are+Able+To+Hear+....&center=true"></a></p>
+    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Code+Is+Poetry+....;Written+In+Logic+....&center=true"></a></p>
     
 <h1 align="center">Hi, I'm Parth Shrivastava</h1>
 
@@ -130,35 +130,58 @@ With a solid foundation in both offensive and defensive security practices, I am
 | **Linux System Administration** | JUL 2024 | LPU | <img src="https://github.com/parthsh77/icons/blob/main/Screenshot%202025-04-18%20043556.png" alt="Linux Admin Certificate" width="200"/> |
 
 
+<h2 align="center">🌐 Connect With Me</h2>
 
-# 📊 GitHub Stats:
-
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=parthsh77&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact) 
-<img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/Software_Tools.gif" alt="About Me GIF" width="200px">
-![](https://github-readme-stats.vercel.app/api?username=parthsh77&theme=radical&_border=false&include_all_commits=true&count_private=true)
-<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="200px"> ![](https://github-readme-streak-stats.herokuapp.com/?user=parthsh77&theme=radical&hide_border=false)
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="300">
-<br><br>
-
- <p align="center">
-    <img src="https://github.com/parthsh77/icons/blob/main/hello.gif" 
-         alt="About Me GIF" width="500px">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Let's+Connect+and+Innovate!;Building+the+Future+Together!" alt="Typing SVG" />
 </p>
- <br/>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Tech animated gif"/>
+</p>
+
+<p align="center">
+  🚀 <strong>Open to collaboration, tech discussions, or just vibing about ideas!</strong> <br/>
+  Let’s connect and do something amazing together.  
+</p>
+
 <br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=parthsh77&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/parthshrivastava77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parthshrivastava77" height="30" width="40" /></a>
-<a href="https://instagram.com/boldboy_x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="boldboy_x" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  &nbsp;
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
-<!--START_SECTION:waka-->
+<br/>
 
-```text
-Security....    █████████████████████████   100.00 %
-```
-<!--END_SECTION:waka-->
-![views since 2023/06/14](https://visitor-badge-deno.deno.dev/mdnadeemsarwar.mdnadeemsarwar.svg)
+<h3 align="center">💡 Why Connect?</h3>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="200" alt="Network gif"/>
+</p>
+
+<ul align="center">
+  <li>🌱 Stay updated on my latest projects</li>
+  <li>🤝 Collaborate on meaningful ideas</li>
+  <li>🧠 Exchange thoughts and grow together</li>
+  <li>🚀 Push the limits of what we can build</li>
+</ul>
+
+---
+
+<p align="center">
+  <strong>🌟 Let's turn ideas into reality. One connection at a time.</strong>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="250" alt="Rocket gif"/>
+</p>
