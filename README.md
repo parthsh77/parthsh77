@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi, I'm Parth Shrivastava</h1>
 
 <p align="center">
-    <img src="https://github.com/parthsh77/parth/blob/main/B4D4AD80-AFA9-4CB1-85C2-9FD7E07F02EA.jpeg" 
+    <img src="https://github.com/parthsh77/parth/blob/main/parth.jpeg" 
          alt="About Me GIF" width="150px">
 </p>
 
