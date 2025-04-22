@@ -135,11 +135,11 @@ With a solid foundation in both offensive and defensive security practices, I am
 📄 Explore my professional journey, technical expertise, and project highlights through the resumes below:
 
 <div align="center">
-  <a href="docs/Tech_Resume.pdf" target="_blank">
+  <a href="https://github.com/parthsh77/parth/blob/main/Parth%20CV.pdf" target="_blank">
     <img src="https://img.shields.io/badge/-Tech_Resume-blueviolet?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Tech Resume">
   </a>
   &nbsp;
-  <a href="docs/General_Resume.pdf" target="_blank">
+  <a href="https://github.com/parthsh77/parth/blob/main/Parth%20Specialised%20CV.pdf" target="_blank">
     <img src="https://img.shields.io/badge/-General_Resume-darkgreen?style=for-the-badge&logo=readthedocs&logoColor=white" alt="General Resume">
   </a>
 </div>
