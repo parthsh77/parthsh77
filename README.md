@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi, I'm Parth Shrivastava</h1>
 
 <p align="center">
-    <img src="https://github.com/parthsh77/icons/blob/main/photo_2024-10-10_23-03-16.jpg" 
+    <img src="....." 
          alt="About Me GIF" width="250px">
 </p>
 
@@ -128,6 +128,25 @@ With a solid foundation in both offensive and defensive security practices, I am
 | **Hands-on Introduction to Linux Commands and Shell Scripting** | JAN 2023 | Coursera | <img src="https://github.com/parthsh77/icons/blob/main/Screenshot%202025-04-18%20043653.png" alt="Hands-on Introduction to Linux Commands and Shell Scripting" width="200"/> |
 | **Introduction To Cyber Security Essentials** | JAN 2023 | Coursera | <img src="https://github.com/parthsh77/icons/blob/main/Screenshot%202025-04-18%20043842.png" alt="Introduction To Cyber Security Essentials" width="200"/> |
 | **Linux System Administration** | JUL 2024 | LPU | <img src="https://github.com/parthsh77/icons/blob/main/Screenshot%202025-04-18%20043556.png" alt="Linux Admin Certificate" width="200"/> |
+
+
+## 💼 My Resume
+
+📄 Explore my professional journey, technical expertise, and project highlights through the resumes below:
+
+<div align="center">
+  <a href="docs/Tech_Resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/-Tech_Resume-blueviolet?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Tech Resume">
+  </a>
+  &nbsp;
+  <a href="docs/General_Resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/-General_Resume-darkgreen?style=for-the-badge&logo=readthedocs&logoColor=white" alt="General Resume">
+  </a>
+</div>
+
+---
+
+🔗 Both resumes are available as PDFs. Click the buttons to view or download them!
 
 
 <h2 align="center">🌐 Connect With Me</h2>
