@@ -19,14 +19,24 @@ Here are some ideas to get you started:
 <h1 align="center">Hi, I'm Parth Shrivastava</h1>
 
 <p align="center">
-    <img src="....." 
-         alt="About Me GIF" width="250px">
+    <img src="https://github.com/parthsh77/parth/blob/main/B4D4AD80-AFA9-4CB1-85C2-9FD7E07F02EA.jpeg" 
+         alt="About Me GIF" width="150px">
 </p>
 
-<h3 align="center">A dedicated and detail-oriented Cybersecurity Enthusiast with a strong interest in ethical hacking, network security, and digital forensics. I am currently enhancing my skills through the CompTIA Security+ and CEH certification and building open-source tools focused on system integrity, network anomaly detection, and threat prevention.
-With a solid foundation in both offensive and defensive security practices, I am committed to contributing to safer and more resilient digital environments.</h3>
+<h3 align="center">
+  🚀 A dedicated and detail-oriented <strong>Cybersecurity Enthusiast</strong> with a strong interest in <em>ethical hacking, network security</em>, and <em>digital forensics</em>.
+  <br/><br/>
+  🔐 Currently enhancing my skills through <strong>CompTIA Security+</strong> and <strong>CEH</strong> certifications while building open-source tools focused on:
+  <br/>
+  <em>system integrity, network anomaly detection</em>, and <em>threat prevention</em>.
+  <br/><br/>
+  🛡️ With a solid foundation in both <strong>offensive</strong> and <strong>defensive security practices</strong>, I am committed to contributing to safer and more resilient digital environments.
+</h3>
 
-- ⌨️ I’m currently working on **CompTIA Sec+ and CEH**
+---
+
+- ⌨️ I’m currently working on **CompTIA Security+** and **Certified Ethical Hacker (CEH)** certifications to strengthen my technical expertise in cybersecurity.
+
 ---
 &nbsp;
     
@@ -78,8 +88,8 @@ With a solid foundation in both offensive and defensive security practices, I am
 ### 🔐 Integrity Checker | Python3, Kali Linux, Windows, Hashing (SHA-256, SHA-512, MD5)  
 **📅 JAN 2025**  
 - Developed an open-source tool to verify the integrity of files.  
-- Capable of computing cryptographic hashes such as SHA-256, SHA-512, and MD5.  
-- Designed to detect unauthorized modifications by comparing computed hashes with original ones.  
+- Designed compute cryptographic hashes such as SHA-256, SHA-512 and MD5 
+- Designed to detect unauthorized modifications by comparing computed hashes with original ones 
 - 🔗 [GitHub Repository](https://github.com/parthsh77/File-Integrity-Checker)  
 
 <p align="center">
@@ -91,8 +101,8 @@ With a solid foundation in both offensive and defensive security practices, I am
 ### 🌐 DOS - Detection | Python3, Scapy, Pandas, Windows, Kali Linux  
 **📅 SEP 2024**  
 - Developed an open-source Linux tool to identify and analyze malicious Denial-of-Service (DoS) attacks in real time.  
-- Built as an enhancement to Wireshark to monitor network traffic patterns.  
-- Expert at detecting anomalies such as sudden request spikes, abnormal traffic sources, and protocol misuse.  
+- Developed in enhancement to ‘wireshark’ which monitors network traffic patterns.  
+- Designed to detect anomalies such as sudden spikes in requests, abnormal traffic sources, and protocol misuse 
 - 🔗 [GitHub Repository](https://github.com/parthsh77/DOS-DETECTION)  
 
 <p align="center">
@@ -104,8 +114,8 @@ With a solid foundation in both offensive and defensive security practices, I am
 ### 🎹 Key Logging - Detection | Python3, psutil, pynput, pywin32, Bash, Kali Linux, Windows  
 **📅 JAN 2024**  
 - Developed an open-source Linux tool to detect and prevent unauthorized keylogging activities.  
-- Monitors keyboard input behavior, suspicious background processes, and unauthorized keystroke data access.  
-- Designed to analyze process hooks, API calls, and hidden logging attempts to detect both hardware and software-based keyloggers.  
+- Developed to monitor keyboard input behavior, suspicious background processes, and unauthorized access to keystroke data.  
+- Designed to analyze process hooks, API calls, and hidden logging attempts, the system effectively detected both hardware and software-based keyloggers.  
 - 🔗 [GitHub Repository](https://github.com/parthsh77/KEY-LOGGING-DETECTION)  
 
 <p align="center">
