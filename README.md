@@ -76,6 +76,17 @@ Here are some ideas to get you started:
 |:--:|:--:|:--:|:--:|:--:|:--:|
 | <img src="https://github.com/parthsh77/icons/blob/main/icons8-kali-linux(1).svg" width="60"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="60"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redhat/redhat-original.svg" width="60"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" width="60"/> | <img src="https://github.com/parthsh77/icons/blob/main/ubuntu.png" width="60"/> | <img src="https://github.com/parthsh77/icons/blob/main/fredora.png" width="60"/>
 ---
+### 🖇️ Other Skills:
+- ✨ Generative AI & LLMs
+- 📊 Project Management
+- 🗄️ Data Engineering
+- 🔄 Agile Software Development
+- 🖥️ System Administration
+- 📝 Research Paper Summarization
+- 🌐 Networking
+- ☁️ Cloud Computing
+
+---
 &nbsp;
 # 🧩 Projects
 
