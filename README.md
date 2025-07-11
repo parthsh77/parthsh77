@@ -41,6 +41,7 @@ Here are some ideas to get you started:
 | C | Python | C++ | Bash |
 |:--:|:--:|:--:|:--:|
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="60"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="60"/> | <img src="https://github.com/parthsh77/icons/blob/main/bash.png" width="60"/> |
+
 ---
 ### 🛡️ Cybersecurity & Ethical Hacking Tools:
 
@@ -48,33 +49,34 @@ Here are some ideas to get you started:
 
 | Nmap | Netcat | Wireshark | theHarvester | Recon-ng |
 |:--:|:--:|:--:|:--:|:--:|
-| <img src="https://github.com/parthsh77/icons/blob/main/nmap.jpg" width="60"/> | <img src="https://github.com/parthsh77/icons/blob/main/netcat.png" width="60"/> | <img src="https://github.com/parthsh77/icons/blob/main/png-clipart-macos-app-icons-wireshark.png" width="60"/> | <img src="https://github.com/parthsh77/icons/blob/main/theharvester.svg" width="60"/> | <img src="https://github.com/parthsh77/icons/blob/main/reconng.png" width="60"/> |
+| <img src="https://github.com/parthdummy/icons-main/blob/main/nmap.jpg" width="60"/> | <img src="https://github.com/parthdummy/icons-main/blob/main/netcat.png" width="60"/> | <img src="https://github.com/parthdummy/icons-main/blob/main/png-clipart-macos-app-icons-wireshark.png" width="60"/> | <img src="https://github.com/parthdummy/icons-main/blob/main/theharvester.svg" width="60"/> | <img src="https://github.com/parthdummy/icons-main/blob/main/reconng.png" width="60"/> |
 
 
 #### 🔓 Vulnerability Analysis & Exploitation
 
 | Burp Suite | SQLMap | Metasploit | Nikto | SearchSploit |
 |:--:|:--:|:--:|:--:|:--:|
-| <img src="https://github.com/parthsh77/icons/blob/main/icons8-burp-suite.svg" width="60"/> | <img src="https://github.com/parthsh77/icons/blob/main/sqlmap.png" width="60"/> | <img src="https://github.com/parthsh77/icons/blob/main/img.icons8.png" width="60"/> | <img src="https://github.com/parthsh77/icons/blob/main/nikto.jpg" width="60"/> | <img src="https://github.com/parthsh77/icons/blob/main/searchsploit.png" width="60"/> |
+| <img src="https://github.com/parthdummy/icons-main/blob/main/icons8-burp-suite.svg" width="60"/> | <img src="https://github.com/parthdummy/icons-main/blob/main/sqlmap.png" width="60"/> | <img src="https://github.com/parthdummy/icons-main/blob/main/img.icons8.png" width="60"/> | <img src="https://github.com/parthdummy/icons-main/blob/main/nikto.jpg" width="60"/> | <img src="https://github.com/parthdummy/icons-main/blob/main/searchsploit.png" width="60"/> |
 
 
 #### 🧠 Password Attacks
 
 | Hydra | John the Ripper | Hashcat | Medusa |
 |:--:|:--:|:--:|:--:|
-| <img src="https://github.com/parthsh77/icons/blob/main/hydra.png" width="60"/> | <img src="https://github.com/parthsh77/icons/blob/main/com.openwall.John.png" width="60"/> | <img src="https://github.com/parthsh77/icons/blob/main/HASH.jpg" width="60"/> | <img src="https://github.com/parthsh77/icons/blob/main/medusa.jpg" width="60"/> |
+| <img src="https://github.com/parthdummy/icons-main/blob/main/hydra.png" width="60"/> | <img src="https://github.com/parthdummy/icons-main/blob/main/com.openwall.John.png" width="60"/> | <img src="https://github.com/parthdummy/icons-main/blob/main/HASH.jpg" width="60"/> | <img src="https://github.com/parthdummy/icons-main/blob/main/medusa.jpg" width="60"/> |
 
 
 #### 📡 Network Attacks & MITM
 
 | Bettercap | Ettercap | dsniff |
 |:--:|:--:|:--:|
-| <img src="https://github.com/parthsh77/icons/blob/main/bettercap.png" width="60"/> | <img src="https://github.com/parthsh77/icons/blob/main/ettercap.svg" width="60"/> | <img src="https://github.com/parthsh77/icons/blob/main/dsniff.svg" width="60"/> |
+| <img src="https://github.com/parthdummy/icons-main/blob/main/bettercap.png" width="60"/> | <img src="https://github.com/parthdummy/icons-main/blob/main/ettercap.svg" width="60"/> | <img src="https://github.com/parthdummy/icons-main/blob/main/dsniff.svg" width="60"/> |
 ## 💻 Operating Systems:
 
 | Kali Linux | Windows | RHEL | Arch Linux | Ubuntu | Fedora |
 |:--:|:--:|:--:|:--:|:--:|:--:|
-| <img src="https://github.com/parthsh77/icons/blob/main/icons8-kali-linux(1).svg" width="60"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="60"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redhat/redhat-original.svg" width="60"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" width="60"/> | <img src="https://github.com/parthsh77/icons/blob/main/ubuntu.png" width="60"/> | <img src="https://github.com/parthsh77/icons/blob/main/fredora.png" width="60"/>
+| <img src="https://github.com/parthdummy/icons-main/blob/main/icons8-kali-linux(1).svg" width="60"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="60"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redhat/redhat-original.svg" width="60"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" width="60"/> | <img src="https://github.com/parthdummy/icons-main/blob/main/ubuntu.png" width="60"/> | <img src="https://github.com/parthdummy/icons-main/blob/main/fredora.png" width="60"/>
+
 ---
 ### 🖇️ Other Skills:
 - ✨ Generative AI & LLMs
@@ -135,14 +137,14 @@ Here are some ideas to get you started:
 
 | Certificate | Date | Provider | Preview |
 |-------------|------|----------|---------|
-| **Cloud Computing** | NOV 2024 | NPTEL | <img src="https://github.com/parthsh77/icons/blob/main/Screenshot%202025-04-18%20043816.png" alt="Cloud Computing Certificate" width="200"/> |
-| **Crybary CompTIA Linux+ XKO-005** | JUL 2024 | LPU | <img src="https://github.com/parthsh77/icons/blob/main/Screenshot%202025-04-18%20043556.png" alt="Crybary CompTIA Linux+ XKO-005" width="200"/> |
-| **Red Hat Certified Administrator (RHCA)** | MAY 2024 | Red Hat | <img src="https://github.com/parthsh77/icons/blob/main/Screenshot 2025-07-11 163323.png" alt="RHCA Certificate" width="200"/> |
-| **Fundamentals of Network Communication** | DEC 2023 | Coursera (University of Colorado) | <img src="https://github.com/parthsh77/icons/blob/main/Screenshot%202025-04-18%20043720.png" alt="Network Communication Certificate" width="200"/> |
-| **Introduction to Cybersecurity Tools & Cyber Attacks** | JUL 2023 | Coursera | <img src="https://github.com/parthsh77/icons/blob/main/1735970442508.jpg" width="200"/> |
-| **Hands-on Introduction to Linux Commands and Shell Scripting** | JAN 2023 | Coursera | <img src="https://github.com/parthsh77/icons/blob/main/Screenshot%202025-04-18%20043653.png" alt="Hands-on Introduction to Linux Commands and Shell Scripting" width="200"/> |
-| **Introduction To Cyber Security Essentials** | JAN 2023 | Coursera | <img src="https://github.com/parthsh77/icons/blob/main/Screenshot%202025-04-18%20043842.png" alt="Introduction To Cyber Security Essentials" width="200"/> |
-| **Linux System Administration** | JUL 2024 | LPU | <img src="https://github.com/parthsh77/icons/blob/main/Screenshot%202025-04-18%20043556.png" alt="Linux Admin Certificate" width="200"/> |
+| **Cloud Computing** | NOV 2024 | NPTEL | <img src="https://github.com/parthdummy/icons-main/blob/main/Screenshot%202025-04-18%20043816.png" alt="Cloud Computing Certificate" width="200"/> |
+| **Crybary CompTIA Linux+ XKO-005** | JUL 2024 | LPU | <img src="https://github.com/parthdummy/icons-main/blob/main/Screenshot%202025-04-18%20043556.png" alt="Crybary CompTIA Linux+ XKO-005" width="200"/> |
+| **Red Hat Certified Administrator (RHCA)** | MAY 2024 | Red Hat | <img src="https://github.com/parthdummy/icons-main/blob/main/Screenshot 2025-07-11 163323.png" alt="RHCA Certificate" width="200"/> |
+| **Fundamentals of Network Communication** | DEC 2023 | Coursera (University of Colorado) | <img src="https://github.com/parthdummy/icons-main/blob/main/Screenshot%202025-04-18%20043720.png" alt="Network Communication Certificate" width="200"/> |
+| **Introduction to Cybersecurity Tools & Cyber Attacks** | JUL 2023 | Coursera | <img src="https://github.com/parthdummy/icons-main/blob/main/1735970442508.jpg" width="200"/> |
+| **Hands-on Introduction to Linux Commands and Shell Scripting** | JAN 2023 | Coursera | <img src="https://github.com/parthdummy/icons-main/blob/main/Screenshot%202025-04-18%20043653.png" alt="Hands-on Introduction to Linux Commands and Shell Scripting" width="200"/> |
+| **Introduction To Cyber Security Essentials** | JAN 2023 | Coursera | <img src="https://github.com/parthdummy/icons-main/blob/main/Screenshot%202025-04-18%20043842.png" alt="Introduction To Cyber Security Essentials" width="200"/> |
+| **Linux System Administration** | JUL 2024 | LPU | <img src="https://github.com/parthdummy/icons-main/blob/main/Screenshot%202025-04-18%20043556.png" alt="Linux Admin Certificate" width="200"/> |
 
 # 📊 GitHub Stats:
 
@@ -155,7 +157,7 @@ Here are some ideas to get you started:
 <br><br>
 
  <p align="center">
-    <img src="https://github.com/parthsh77/icons/blob/main/hello.gif" 
+    <img src="https://github.com/parthdummy/icons-main/blob/main/hello.gif" 
          alt="About Me GIF" width="500px">
 </p>
  <br/>
