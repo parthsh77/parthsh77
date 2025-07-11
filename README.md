@@ -176,11 +176,11 @@ Here are some ideas to get you started:
 📄 Explore my professional journey, technical expertise, and project highlights through the resumes below:
 
 <div align="center">
-  <a href="https://github.com/parthsh77/parth/blob/main/Parth%20CV.pdf" target="_blank">
+  <a href="https://drive.google.com/file/d/1oTVUh9ubh-iH42xnwjYvEcK5PUkIzp0E/view?usp=drive_link" target="_blank">
     <img src="https://img.shields.io/badge/-Tech_Resume-blueviolet?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Tech Resume">
   </a>
   &nbsp;
-  <a href="https://github.com/parthsh77/parth/blob/main/Parth%20Specialised%20CV.pdf" target="_blank">
+  <a href="https://drive.google.com/file/d/1ml1Uy79s1KXNf592YYvcVY30ReNyFEiB/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/-General_Resume-darkgreen?style=for-the-badge&logo=readthedocs&logoColor=white" alt="General Resume">
   </a>
 </div>
